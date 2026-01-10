@@ -1,0 +1,7 @@
+colorama>=0.4.6
+httpx>=0.28.1
+litestar[standard]>=2.19.0
+msgspec>=0.20.0
+python-dotenv>=1.2.1
+python-jose[cryptography]>=3.5.0
+uvicorn>=0.39.0
